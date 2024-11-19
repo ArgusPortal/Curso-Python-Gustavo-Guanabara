@@ -1,2 +1,9 @@
+# Ignorar tudo, exceto a pasta do repositório
+/*
+!/Curso-Python-Gustavo-Guanabara/
+
+# Ignorar configurações do VS Code
 .vscode/
-*__pycache__/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
